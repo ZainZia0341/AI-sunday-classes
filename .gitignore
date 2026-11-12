@@ -26,6 +26,12 @@ dist/
 # Instructor answers and generated answer data
 08_assignment_solutions.ipynb
 _instructor_private/
+11_assignment_rag_solution.ipynb
+*_solution.ipynb
+*_solutions.ipynb
+_local_archive/
+*.rar
+*.zip
 
 # Local editor and OS files
 .vscode/

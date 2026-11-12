@@ -1,6 +1,0 @@
-.env
-.venv/
-__pycache__/
-.ipynb_checkpoints/
-08_assignment_solutions.ipynb
-_instructor_private/
